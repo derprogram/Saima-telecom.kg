@@ -1,0 +1,196 @@
+body {
+
+    font-family: sans-serif;
+
+}
+
+.header {
+
+    background-color: black;
+
+    width: 100vw;
+
+    height: 22px;
+
+    box-shadow: 2px 7px 3px rgba(76, 76, 76, 0.54);    text-align: center;
+
+}
+
+.header span {
+
+    color: red;
+
+    font-family: serif;
+
+    
+
+}
+
+.box {
+
+    width: 550px;
+
+    height: 700px;
+
+    margin: auto
+
+}
+
+.box img {
+
+  width: 370px;
+
+}
+
+.price-product1, .price-product2 {
+
+    background-color: black;
+
+    width: 150px;
+
+    height: 200px;
+
+    font-family: sans-serif;
+
+    border-radius: 11px;
+
+    position: absolute;
+
+    margin-top: 16px;
+
+    margin-left: 50px 
+
+}
+
+.qualitative, .cheap {
+
+    text-align: center;
+
+    color: white;
+
+    padding-top: 21px;
+
+}
+
+.price-product2 {
+
+  margin-left: 350px;
+
+ 
+
+    
+
+}
+
+.father {
+
+    width: 400px;
+
+    height: 200px
+
+}
+
+.cursor {
+
+    color: white;
+
+    border: none;
+
+    background-color: blue;
+
+    padding: 10px 22px 10px 14px;
+
+    border-radius: 7px;
+
+    margin-left: 0px
+
+    
+
+}
+
+.product li {
+
+  margin-left: 60px
+
+}
+
+.img_class {
+
+  transition: all 1s ease;
+
+}
+
+.img_class:hover {
+
+    filter: brightness(150%);
+
+    filter: hue-rotate(200deg);
+
+}
+
+.item-list {
+
+    float: left;
+
+    background-color: black;
+
+    width: 150px;
+
+    height: 200px;
+
+    font-family: sans-serif;
+
+    border-radius: 12px;
+
+    margin: 34px 15px;
+
+    box-shadow: 2px 7px 3px rgba(76, 76, 76, 0.54);    
+
+}
+
+h3 {
+
+    margin-left: 140px
+
+}
+
+.first-N img {
+
+  width: 150px;
+
+  box-shadow: 0px 7px 3px white;
+
+}
+
+.first-N p {
+
+    color: white;
+
+    font-size: 14px;
+
+    
+
+}
+
+b {
+
+    margin-left: 24px;
+
+    margin-top: 2px
+
+}
+
+i {
+
+    color: blue;
+
+}
+
+.product p {
+
+    margin-top: 29px;
+
+    margin-left: 33px;
+
+}
+
